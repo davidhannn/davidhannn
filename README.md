@@ -1,5 +1,5 @@
 
-<h1 align="center">Hey there, I'm <a href="https://www.linkedin.com/in/davidhan92/">David</a></h1>
+<h1 align="center">Hey there, I'm <a href="https://www.linkedin.com/in/davidhan92/">David!</a></h1>
 
 <a href="https://github.com/davidhannn/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=davidhannn&show_icons=true&count_private=true&theme=dracula" />
