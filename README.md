@@ -17,4 +17,4 @@ Testing/Deployment | Docker, Jest, Mocha, Chai, React Testing Library, New Relic
 Developer Tools |Git, npm, vim, Postman, pgAdmin, Agile/SCRUM Methodology
 
 <a href="https://github.com/davidhannn/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=merosenlund&show_icons=true&count_private=true&theme=dracula" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=davidhannn&show_icons=true&count_private=true&theme=dracula" />
