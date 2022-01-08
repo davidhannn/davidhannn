@@ -16,5 +16,5 @@ Back End | Node.js, Express, GraphQL, PostgreSQL, MongoDB, Firebase, TypeORM, Se
 Testing/Deployment | Docker, Jest, Mocha, Chai, React Testing Library, New Relic, Loader.IO, K6, AWS: EC2, Docker
 Developer Tools |Git, npm, vim, Postman, pgAdmin, Agile/SCRUM Methodology
 
-<a href="https://github.com/chanychi/github-readme-stats">
+<a href="https://github.com/davidhannn/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=merosenlund&show_icons=true&count_private=true&theme=dracula" />
