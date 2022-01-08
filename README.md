@@ -1,10 +1,5 @@
 
 <h1 align="center">Hey there, I'm <a href="https://www.linkedin.com/in/davidhan92/">David!</a></h1>
-
-<a href="https://github.com/davidhannn/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=davidhannn&show_icons=true&count_private=true&theme=dracula" />
-</a>
-  
   
 Hello! I'm a full stack software engineer who loves to collaborate with others to design and create beautiful products! I'm always looking to improve my knowledge and skill in this area so if you'd like to chat reach out!
 
@@ -40,4 +35,7 @@ Hello! I'm a full stack software engineer who loves to collaborate with others t
 ![postgresql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![mongodb](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
-
+<a href="https://github.com/davidhannn/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=davidhannn&show_icons=true&count_private=true&theme=dracula" />
+</a>
+  
