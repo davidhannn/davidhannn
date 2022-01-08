@@ -1,15 +1,10 @@
 
 <h1 align="center">Hey there, I'm <a href="https://www.linkedin.com/in/davidhan92/">David</a></h1>
 
-- 👋 Hi, I’m David Han.
-- 👀 I’m interested in software development, writing, game development and tinkering with electronics.
-- 🌱 I’m currently learning server optimization and load balancing.
-- 💞️ I’m looking to collaborate on projects.
-- 📫 I would love to hear from you on LinkedIn!
-Hello! I'm a full stack software engineer with a deep love for all things system design. 
+<a href="https://github.com/davidhannn/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=davidhannn&show_icons=true&count_private=true&theme=dracula" />
 
-I enjoy analyzing systems to find opportunities for improved efficiency and simplicity. Being presented with a problem to solve I enjoy planning a solution as much as the rest of the project.
-
+Hello! I'm a full stack software engineer who loves to collaborate with others to design and create beautiful products!
 I'm always looking to improve my knowledge and skill in this area so if you'd like to chat reach out!
 
 #### Dev Environment
@@ -41,9 +36,7 @@ I'm always looking to improve my knowledge and skill in this area so if you'd li
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 #### Databases
-
 ![postgresql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![mongodb](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
-<a href="https://github.com/davidhannn/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=davidhannn&show_icons=true&count_private=true&theme=dracula" />
+
